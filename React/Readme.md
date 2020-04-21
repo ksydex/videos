@@ -2,6 +2,6 @@
 
 |   | Тема                | Код                                          | Видео                                   |
 |---|---------------------|----------------------------------------------|-----------------------------------------|
-| 1 | useState практика   | [GitHub](./1.%20useState%20hook%20practice/) | [YouTube](https://youtu.be/xLwHGFN8AWQ) |
+| 1 | useState практика   | [К папке](./1.%20useState%20hook%20practice/) | [YouTube](https://youtu.be/xLwHGFN8AWQ) |
 | 2 | useEffect практика  | В процессе                                   | В процессе                              |
 | 3 | useContext практика | В процессе                                   | В процессе                              |
