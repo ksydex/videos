@@ -3,5 +3,5 @@
 |   | Тема                |                  Проекты                         | Плейлист                                   |
 |---|---------------------|----------------------------------------------|-----------------------------------------|
 | 1 | React               | [К папке](./React/) | [YouTube](https://www.youtube.com/playlist?list=PLfRfPcVbCCjOI2h7erUp9TMTNCK9XvrJI) |
-| 2 | Vue  | В процессе                                   | В процессе                              |
+| 2 | Vue               | [К папке](./Vue/) | [YouTube](https://www.youtube.com/playlist?list=PLfRfPcVbCCjOLg9GA4NNg88XSZsa_tjTm) |
 | 3 | ? | В процессе                                   | В процессе                              |"# videos" 
