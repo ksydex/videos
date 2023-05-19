@@ -25,6 +25,9 @@ export default {
 
     const onAddTask = () => {
       emit('onAddTask', { title: title.value, description: description.value })
+      
+      title.value = ''
+      description.value = ''
     }
 
     return {
